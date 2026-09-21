@@ -1,0 +1,2363 @@
+[
+  {
+    "tag": "4.1.15.20",
+    "slug": "4.1.15.20",
+    "version": "4.1.15.20",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.15.20",
+    "published_at": "2026-09-18T12:03:53Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.15.dmg",
+    "sha256": "b73319ea3ef7f5f2f6f1403b0bed87ac75b5f5b70f0951ea61bad2d9449857f8",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.15.20.dmg",
+        "size": 530712167,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.15.20/WeChatMac-4.1.15.20.dmg",
+        "sha256": "b73319ea3ef7f5f2f6f1403b0bed87ac75b5f5b70f0951ea61bad2d9449857f8"
+      },
+      {
+        "name": "WeChatMac-4.1.15.20.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.15.20/WeChatMac-4.1.15.20.dmg.sha256",
+        "sha256": "c1904e0a8a5a24011419f820d1e0aecca152ba50e438d26f5a54beffaa62b9a1"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.15.19",
+    "slug": "4.1.15.19",
+    "version": "4.1.15.19",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.15.19",
+    "published_at": "2026-09-17T12:24:54Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.15.dmg",
+    "sha256": "78e27c3a7feb32a8af7911582f966b5aba37e86f177ce508a473ef971174c777",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.15.19.dmg",
+        "size": 530711963,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.15.19/WeChatMac-4.1.15.19.dmg",
+        "sha256": "78e27c3a7feb32a8af7911582f966b5aba37e86f177ce508a473ef971174c777"
+      },
+      {
+        "name": "WeChatMac-4.1.15.19.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.15.19/WeChatMac-4.1.15.19.dmg.sha256",
+        "sha256": "d43b1ed384ff734ab6e9cb4c90178da5da99cbc0aa7b13b55f00d7b5e470dead"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.15.17",
+    "slug": "4.1.15.17",
+    "version": "4.1.15.17",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.15.17",
+    "published_at": "2026-09-16T12:25:06Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.15.dmg",
+    "sha256": "fc2e4b80ed3366ef7e53e39dc3878699155e95db995a8cdb1748db6f470a43f6",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.15.17.dmg",
+        "size": 530700743,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.15.17/WeChatMac-4.1.15.17.dmg",
+        "sha256": "fc2e4b80ed3366ef7e53e39dc3878699155e95db995a8cdb1748db6f470a43f6"
+      },
+      {
+        "name": "WeChatMac-4.1.15.17.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.15.17/WeChatMac-4.1.15.17.dmg.sha256",
+        "sha256": "71baf0b383ffe0a9417a4137f6141afbd6b464275708bfc4e5759512d5ab2d14"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.15.14",
+    "slug": "4.1.15.14",
+    "version": "4.1.15.14",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.15.14",
+    "published_at": "2026-09-15T12:27:15Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.15.dmg",
+    "sha256": "29108a53406798548b1698473e3d81d4ed329926e273a46d70612913f31cf07f",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.15.14.dmg",
+        "size": 530725055,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.15.14/WeChatMac-4.1.15.14.dmg",
+        "sha256": "29108a53406798548b1698473e3d81d4ed329926e273a46d70612913f31cf07f"
+      },
+      {
+        "name": "WeChatMac-4.1.15.14.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.15.14/WeChatMac-4.1.15.14.dmg.sha256",
+        "sha256": "3d5e4f39b405616418baf8b19394f404f83bc5b09562618a7bf4d5e01cb7c45b"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.13.63",
+    "slug": "4.1.13.63",
+    "version": "4.1.13.63",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.13.63",
+    "published_at": "2026-09-09T12:09:11Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.13.dmg",
+    "sha256": "b247b2cc9dd2122024d6facf9f3c464f2564f106266851d439853bacc7013de9",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.13.63.dmg",
+        "size": 520386867,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.63/WeChatMac-4.1.13.63.dmg",
+        "sha256": "b247b2cc9dd2122024d6facf9f3c464f2564f106266851d439853bacc7013de9"
+      },
+      {
+        "name": "WeChatMac-4.1.13.63.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.63/WeChatMac-4.1.13.63.dmg.sha256",
+        "sha256": "adc17af567d4a69c7b0f9c9f1a6824c14d3937a1f37dabdd24120f19628f7ab1"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.13.61",
+    "slug": "4.1.13.61",
+    "version": "4.1.13.61",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.13.61",
+    "published_at": "2026-09-07T13:16:27Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.13.dmg",
+    "sha256": "42ce3028be7f49dc1b5b5c3f5c9aee31456f45020a68b99ed204698759f5ffc7",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.13.61.dmg",
+        "size": 520388487,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.61/WeChatMac-4.1.13.61.dmg",
+        "sha256": "42ce3028be7f49dc1b5b5c3f5c9aee31456f45020a68b99ed204698759f5ffc7"
+      },
+      {
+        "name": "WeChatMac-4.1.13.61.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.61/WeChatMac-4.1.13.61.dmg.sha256",
+        "sha256": "0c6715b195e8c69bfe1d5e788abb9971f4d87e1fd5ac90546c505c753fb612a1"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.13.60",
+    "slug": "4.1.13.60",
+    "version": "4.1.13.60",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.13.60",
+    "published_at": "2026-09-04T12:00:00Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.13.dmg",
+    "sha256": "0ecf1cc79c77e44b201fd6b70ebb09742b32461f13ea0a396bc1ec92063f367d",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.13.60.dmg",
+        "size": 520386747,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.60/WeChatMac-4.1.13.60.dmg",
+        "sha256": "0ecf1cc79c77e44b201fd6b70ebb09742b32461f13ea0a396bc1ec92063f367d"
+      },
+      {
+        "name": "WeChatMac-4.1.13.60.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.60/WeChatMac-4.1.13.60.dmg.sha256",
+        "sha256": "71099f9e613bfdd11057b7a2e5467b9e65619006c71905cd521d323899586e2f"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.13.59",
+    "slug": "4.1.13.59",
+    "version": "4.1.13.59",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.13.59",
+    "published_at": "2026-09-03T11:55:39Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.13.dmg",
+    "sha256": "e39cebb400c62a29087cdf81411311ef83e79abe151df5d285a99612739374e9",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.13.59.dmg",
+        "size": 520532091,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.59/WeChatMac-4.1.13.59.dmg",
+        "sha256": "e39cebb400c62a29087cdf81411311ef83e79abe151df5d285a99612739374e9"
+      },
+      {
+        "name": "WeChatMac-4.1.13.59.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.59/WeChatMac-4.1.13.59.dmg.sha256",
+        "sha256": "6a32f39631669dbb856b8203eb97c746143524d036891221747b708df40f3c51"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.13.11",
+    "slug": "4.1.13.11",
+    "version": "4.1.13.11",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.13.11",
+    "published_at": "2026-08-22T07:28:41Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.13.dmg",
+    "sha256": "8ac5734e173fb457c915a9fd56d8c360ca284328d765219feafb3ba7e767a09e",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.13.11.dmg",
+        "size": 521477708,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.11/WeChatMac-4.1.13.11.dmg",
+        "sha256": "8ac5734e173fb457c915a9fd56d8c360ca284328d765219feafb3ba7e767a09e"
+      },
+      {
+        "name": "WeChatMac-4.1.13.11.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.11/WeChatMac-4.1.13.11.dmg.sha256",
+        "sha256": "44bb2e6c95da32cf85274d85a1643659b10d3a1ef11b4ca06061e2464c222999"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.13.10",
+    "slug": "4.1.13.10",
+    "version": "4.1.13.10",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.13.10",
+    "published_at": "2026-08-21T07:41:32Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.13.dmg",
+    "sha256": "9240480327cdd21e66e9c0a58fe0e2d4444da625166871be37c8b8a02c3ad7a8",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.13.10.dmg",
+        "size": 521406036,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.10/WeChatMac-4.1.13.10.dmg",
+        "sha256": "9240480327cdd21e66e9c0a58fe0e2d4444da625166871be37c8b8a02c3ad7a8"
+      },
+      {
+        "name": "WeChatMac-4.1.13.10.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.10/WeChatMac-4.1.13.10.dmg.sha256",
+        "sha256": "69689590edebf8db3a7e4352da29061ffbd83ab9e34540984906337f513dfaa6"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.13.8",
+    "slug": "4.1.13.8",
+    "version": "4.1.13.8",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.13.8",
+    "published_at": "2026-08-20T07:38:32Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.13.dmg",
+    "sha256": "5e3792a96f8266957c24aa791dacec1740fd2c81f2dc1187d7ba70f71e22c1c8",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.13.8.dmg",
+        "size": 520910395,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.8/WeChatMac-4.1.13.8.dmg",
+        "sha256": "5e3792a96f8266957c24aa791dacec1740fd2c81f2dc1187d7ba70f71e22c1c8"
+      },
+      {
+        "name": "WeChatMac-4.1.13.8.dmg.sha256",
+        "size": 288,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.8/WeChatMac-4.1.13.8.dmg.sha256",
+        "sha256": "e310c1b2be89c7c952580dd5acfbfa608abb66de45797d61822f52a35b18a2a4"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.13.7",
+    "slug": "4.1.13.7",
+    "version": "4.1.13.7",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.13.7",
+    "published_at": "2026-08-19T07:35:37Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.13.dmg",
+    "sha256": "0ff0582863797d98b9ae5889171a811345b933fcb9329cd1f230588d5dd89f7b",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.13.7.dmg",
+        "size": 520850131,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.7/WeChatMac-4.1.13.7.dmg",
+        "sha256": "0ff0582863797d98b9ae5889171a811345b933fcb9329cd1f230588d5dd89f7b"
+      },
+      {
+        "name": "WeChatMac-4.1.13.7.dmg.sha256",
+        "size": 288,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.13.7/WeChatMac-4.1.13.7.dmg.sha256",
+        "sha256": "736c2329e56b0975959440b3bcdb5df26c060d66bb66dee5db42aec845a01025"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.12.53",
+    "slug": "4.1.12.53",
+    "version": "4.1.12.53",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.12.53",
+    "published_at": "2026-08-14T08:12:52Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.12.dmg",
+    "sha256": "427b1ee5d91e4ea84841cca6b9bafa99c9f6175f2406b7b8bc72f4c96abf2183",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.12.53.dmg",
+        "size": 513267408,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.53/WeChatMac-4.1.12.53.dmg",
+        "sha256": "427b1ee5d91e4ea84841cca6b9bafa99c9f6175f2406b7b8bc72f4c96abf2183"
+      },
+      {
+        "name": "WeChatMac-4.1.12.53.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.53/WeChatMac-4.1.12.53.dmg.sha256",
+        "sha256": "32663894ea3f9cf621d4a5770ca306d4e681bffbf4088434cbc450534310a5ac"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.12.29",
+    "slug": "4.1.12.29",
+    "version": "4.1.12.29",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.12.29",
+    "published_at": "2026-07-29T09:35:41Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.12.dmg",
+    "sha256": "92d02efd9f0ad775de6b1ebabdb8ec73f024655e7e46f6bb0ef494e2b197b96b",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.12.29.dmg",
+        "size": 509508392,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.29/WeChatMac-4.1.12.29.dmg",
+        "sha256": "92d02efd9f0ad775de6b1ebabdb8ec73f024655e7e46f6bb0ef494e2b197b96b"
+      },
+      {
+        "name": "WeChatMac-4.1.12.29.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.29/WeChatMac-4.1.12.29.dmg.sha256",
+        "sha256": "f4cd07e340df65991ad7f5e2f3240a06395b32bd020d1b4a05f9b5ffb865d91f"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.12.28",
+    "slug": "4.1.12.28",
+    "version": "4.1.12.28",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.12.28",
+    "published_at": "2026-07-26T09:09:58Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.12.dmg",
+    "sha256": "ef5335b6986082107889caeb77667ee3f082130f8d9c46fc42748b8dca1b762a",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.12.28.dmg",
+        "size": 509675192,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.28/WeChatMac-4.1.12.28.dmg",
+        "sha256": "ef5335b6986082107889caeb77667ee3f082130f8d9c46fc42748b8dca1b762a"
+      },
+      {
+        "name": "WeChatMac-4.1.12.28.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.28/WeChatMac-4.1.12.28.dmg.sha256",
+        "sha256": "4da9764c2b17dfa03f79ab5e51d782d8d9ae5007dce05350093a05f70ed2a034"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.12.27",
+    "slug": "4.1.12.27",
+    "version": "4.1.12.27",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.12.27",
+    "published_at": "2026-07-25T08:59:18Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.12.dmg",
+    "sha256": "8db40a7a80337e88baa50741372ccf75134bf3146db44de889b28b62884c45f2",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.12.27.dmg",
+        "size": 509679172,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.27/WeChatMac-4.1.12.27.dmg",
+        "sha256": "8db40a7a80337e88baa50741372ccf75134bf3146db44de889b28b62884c45f2"
+      },
+      {
+        "name": "WeChatMac-4.1.12.27.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.27/WeChatMac-4.1.12.27.dmg.sha256",
+        "sha256": "227217a7a9760f00b28f9bab68299453e735e7c4d74d0353b7f3f38a4bceec81"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.12.26",
+    "slug": "4.1.12.26",
+    "version": "4.1.12.26",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.12.26",
+    "published_at": "2026-07-24T09:18:44Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.12.dmg",
+    "sha256": "b6de67bdb8d660ae5b0650e0442ee4e4bafad1ad7454234ab9c3ab46ee0a234e",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.12.26.dmg",
+        "size": 509545368,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.26/WeChatMac-4.1.12.26.dmg",
+        "sha256": "b6de67bdb8d660ae5b0650e0442ee4e4bafad1ad7454234ab9c3ab46ee0a234e"
+      },
+      {
+        "name": "WeChatMac-4.1.12.26.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.26/WeChatMac-4.1.12.26.dmg.sha256",
+        "sha256": "4f13b119ba8efccfcb22689840842c8f76fd1e43233a02f16947d2a63f643cd0"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.12.25",
+    "slug": "4.1.12.25",
+    "version": "4.1.12.25",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.12.25",
+    "published_at": "2026-07-23T09:23:25Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.12.dmg",
+    "sha256": "1048b2374c9507ce557c831f0df425cd04af5116bde99a522827741f6cf4fa8f",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.12.25.dmg",
+        "size": 509546260,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.25/WeChatMac-4.1.12.25.dmg",
+        "sha256": "1048b2374c9507ce557c831f0df425cd04af5116bde99a522827741f6cf4fa8f"
+      },
+      {
+        "name": "WeChatMac-4.1.12.25.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.12.25/WeChatMac-4.1.12.25.dmg.sha256",
+        "sha256": "bbbaf710c7fc09032b0edb4c1a1c45b54bfa71d55e1218b80374b7aaabb95959"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.11.55",
+    "slug": "4.1.11.55",
+    "version": "4.1.11.55",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.11.55",
+    "published_at": "2026-07-15T09:08:32Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.11.dmg",
+    "sha256": "f17c4304c9043f2c59ff2c033bc3c84cd5bf9ff2e5252c424ba939e70cdd552c",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.11.55.dmg",
+        "size": 494301407,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.55/WeChatMac-4.1.11.55.dmg",
+        "sha256": "f17c4304c9043f2c59ff2c033bc3c84cd5bf9ff2e5252c424ba939e70cdd552c"
+      },
+      {
+        "name": "WeChatMac-4.1.11.55.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.55/WeChatMac-4.1.11.55.dmg.sha256",
+        "sha256": "29c13d355dc4a19549178d6ad8cd723ffe1928bb1c73ce85fdbca657861ca5c8"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.11.54",
+    "slug": "4.1.11.54",
+    "version": "4.1.11.54",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.11.54",
+    "published_at": "2026-07-10T10:21:10Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.11.dmg",
+    "sha256": "846b59743d009a8d5f57eaf4d5b57e2199656a6642639df9de2b9dccc9c04bb3",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.11.54.dmg",
+        "size": 494293679,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.54/WeChatMac-4.1.11.54.dmg",
+        "sha256": "846b59743d009a8d5f57eaf4d5b57e2199656a6642639df9de2b9dccc9c04bb3"
+      },
+      {
+        "name": "WeChatMac-4.1.11.54.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.54/WeChatMac-4.1.11.54.dmg.sha256",
+        "sha256": "44495f4685824c5caa0a5ec43acb0a6cf840ece7ef661375d6eace7a4e05c30d"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.11.53",
+    "slug": "4.1.11.53",
+    "version": "4.1.11.53",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.11.53",
+    "published_at": "2026-07-09T10:27:25Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.11.dmg",
+    "sha256": "ea80413fca0ea09eb4241e333a8f09862d33c6c967e6ab66244fd474e6ab4115",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.11.53.dmg",
+        "size": 494489257,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.53/WeChatMac-4.1.11.53.dmg",
+        "sha256": "ea80413fca0ea09eb4241e333a8f09862d33c6c967e6ab66244fd474e6ab4115"
+      },
+      {
+        "name": "WeChatMac-4.1.11.53.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.53/WeChatMac-4.1.11.53.dmg.sha256",
+        "sha256": "4773dfbd266c584fa17de54ef6df32eeb41533d6cea0b2ee97b74065293f1a5d"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.11.52",
+    "slug": "4.1.11.52",
+    "version": "4.1.11.52",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.11.52",
+    "published_at": "2026-07-08T09:24:13Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.11.dmg",
+    "sha256": "56bcbc597c69e7d4c7f0d768f65847ec8aae4205e943590a162b0b87d2c68e31",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.11.52.dmg",
+        "size": 494487520,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.52/WeChatMac-4.1.11.52.dmg",
+        "sha256": "56bcbc597c69e7d4c7f0d768f65847ec8aae4205e943590a162b0b87d2c68e31"
+      },
+      {
+        "name": "WeChatMac-4.1.11.52.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.52/WeChatMac-4.1.11.52.dmg.sha256",
+        "sha256": "8c9280b336cb87bcbc1add103720735cf917883289385ec765de16afbfbb40e8"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.11.51",
+    "slug": "4.1.11.51",
+    "version": "4.1.11.51",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.11.51",
+    "published_at": "2026-07-06T11:26:10Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.11.dmg",
+    "sha256": "aaf6bd3cf6ffc12fddd73ce2d36cfcf82278997a2b09bad3d3b43a365f60a8e6",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.11.51.dmg",
+        "size": 510967285,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.51/WeChatMac-4.1.11.51.dmg",
+        "sha256": "aaf6bd3cf6ffc12fddd73ce2d36cfcf82278997a2b09bad3d3b43a365f60a8e6"
+      },
+      {
+        "name": "WeChatMac-4.1.11.51.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.51/WeChatMac-4.1.11.51.dmg.sha256",
+        "sha256": "c68dd09371c45be8db98089671fd501482a121133c95a54dd384af14a80b367f"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.11.23",
+    "slug": "4.1.11.23",
+    "version": "4.1.11.23",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.11.23",
+    "published_at": "2026-06-27T09:27:12Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.11.dmg",
+    "sha256": "ebda8533ec85c9f92741d1178ac197efbec9856cae056842e7521b2bf6685e62",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.11.23.dmg",
+        "size": 494461813,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.23/WeChatMac-4.1.11.23.dmg",
+        "sha256": "ebda8533ec85c9f92741d1178ac197efbec9856cae056842e7521b2bf6685e62"
+      },
+      {
+        "name": "WeChatMac-4.1.11.23.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.23/WeChatMac-4.1.11.23.dmg.sha256",
+        "sha256": "f0d08c042a6c191fe3a1aa150507d43eff11bf8af0a75ff40012b4598830079b"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.11.21",
+    "slug": "4.1.11.21",
+    "version": "4.1.11.21",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.11.21",
+    "published_at": "2026-06-24T10:21:01Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.11.dmg",
+    "sha256": "a229eece2bc260f70e1618c59051f6f1abb2c3e9473929f8cbf6b2c7f9462bcc",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.11.21.dmg",
+        "size": 494432482,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.21/WeChatMac-4.1.11.21.dmg",
+        "sha256": "a229eece2bc260f70e1618c59051f6f1abb2c3e9473929f8cbf6b2c7f9462bcc"
+      },
+      {
+        "name": "WeChatMac-4.1.11.21.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.21/WeChatMac-4.1.11.21.dmg.sha256",
+        "sha256": "050a4526478ce52095f31d9a90e6c49889c15a9bc1bfdf36a86fab40cf71a2da"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.10.53",
+    "slug": "4.1.10.53",
+    "version": "4.1.10.53",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.10.53",
+    "published_at": "2026-06-22T12:47:23Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.10.53.dmg",
+    "sha256": "e7676bf88fc9d9249b3144f0cdd5f36ff08782c4e9c39dd9136967ed67b36430",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.10.53.dmg",
+        "size": 496955386,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.10.53/WeChatMac-4.1.10.53.dmg",
+        "sha256": "e7676bf88fc9d9249b3144f0cdd5f36ff08782c4e9c39dd9136967ed67b36430"
+      },
+      {
+        "name": "WeChatMac-4.1.10.53.dmg.sha256",
+        "size": 292,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.10.53/WeChatMac-4.1.10.53.dmg.sha256",
+        "sha256": "883895f1f3343a67eab3958947020f1138caf80f109415899ae7984fca13bce8"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.11.16",
+    "slug": "4.1.11.16",
+    "version": "4.1.11.16",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.11.16",
+    "published_at": "2026-06-12T10:59:27Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.10.dmg",
+    "sha256": "eaf4d1577d4b7340035f8a5e4adf3905e274224a5ae5da48ed50d4ffd6d5556e",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.11.16.dmg",
+        "size": 494386677,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.16/WeChatMac-4.1.11.16.dmg",
+        "sha256": "eaf4d1577d4b7340035f8a5e4adf3905e274224a5ae5da48ed50d4ffd6d5556e"
+      },
+      {
+        "name": "WeChatMac-4.1.11.16.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.11.16/WeChatMac-4.1.11.16.dmg.sha256",
+        "sha256": "7542f227088113ba49ec7c00f4b50eff94751437a2ac7551a9bd0af5f6a75e01"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.10.31",
+    "slug": "4.1.10.31",
+    "version": "4.1.10.31",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.10.31",
+    "published_at": "2026-06-03T11:54:32Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.10.dmg",
+    "sha256": "229ef91360297c5588380a31af5d72ae3e2a5efb39ea366c866afb59c5b05923",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.10.31.dmg",
+        "size": 490691923,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.10.31/WeChatMac-4.1.10.31.dmg",
+        "sha256": "229ef91360297c5588380a31af5d72ae3e2a5efb39ea366c866afb59c5b05923"
+      },
+      {
+        "name": "WeChatMac-4.1.10.31.dmg.sha256",
+        "size": 289,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.10.31/WeChatMac-4.1.10.31.dmg.sha256",
+        "sha256": "7aa554c2bb6947b1f99ff8919d8857dc555bf7b27a417805ac9590cba30f94a5"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.10.24",
+    "slug": "4.1.10.24",
+    "version": "4.1.10.24",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.10.24",
+    "published_at": "2026-05-28T10:53:50Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.10.dmg",
+    "sha256": "d88b86bba05bd0e4feb41f5057315990919fd41b84b86f36835bb83ba08b6d21",
+    "md5": "0d2daad662386fb360d549b61fdedd23",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.10.24.dmg",
+        "size": 490249232,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.10.24/WeChatMac-4.1.10.24.dmg",
+        "sha256": "d88b86bba05bd0e4feb41f5057315990919fd41b84b86f36835bb83ba08b6d21"
+      },
+      {
+        "name": "WeChatMac-4.1.10.24.dmg.sha256",
+        "size": 321,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.10.24/WeChatMac-4.1.10.24.dmg.sha256",
+        "sha256": "559e2986c225e8c0e65412157129a9623fb96f5f045ae73b674e092e9de53077"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.9.58",
+    "slug": "4.1.9.58",
+    "version": "4.1.9.58",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.9.58",
+    "published_at": "2026-05-19T10:37:08Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.9.dmg",
+    "sha256": "0e8510d1a004fe6373aa0ad1806d73d4bcf9a32f0c62284d8eb82cefe2b78d06",
+    "md5": "dbe3ec819f1e48c4f67f1a33afe4635c",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.9.58.dmg",
+        "size": 488608433,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.9.58/WeChatMac-4.1.9.58.dmg",
+        "sha256": "0e8510d1a004fe6373aa0ad1806d73d4bcf9a32f0c62284d8eb82cefe2b78d06"
+      },
+      {
+        "name": "WeChatMac-4.1.9.58.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.9.58/WeChatMac-4.1.9.58.dmg.sha256",
+        "sha256": "8a1d6a6b576342e0d90769c402dade0093ec94cd75aaae313bd78cd61823b31a"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.9.57",
+    "slug": "4.1.9.57",
+    "version": "4.1.9.57",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.9.57",
+    "published_at": "2026-05-15T09:47:59Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.9.dmg",
+    "sha256": "531f5dc9c4ccae49575b80ab86e1badc63e4fec4df5334cfcf1f2ce69767c555",
+    "md5": "5a1b5ac83ee01f051315366817d928af",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.9.57.dmg",
+        "size": 488675229,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.9.57/WeChatMac-4.1.9.57.dmg",
+        "sha256": "531f5dc9c4ccae49575b80ab86e1badc63e4fec4df5334cfcf1f2ce69767c555"
+      },
+      {
+        "name": "WeChatMac-4.1.9.57.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.9.57/WeChatMac-4.1.9.57.dmg.sha256",
+        "sha256": "9ae784accaf26a288f406ecb06d7f597d674e33de8a2e72f0b0a2645dcfebcf2"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.9.31",
+    "slug": "4.1.9.31",
+    "version": "4.1.9.31",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.9.31",
+    "published_at": "2026-04-29T09:08:23Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.9.dmg",
+    "sha256": "cc23c798065da4c7edf8f60513881d185ec508df9902f71c55060e516e89224f",
+    "md5": "ef9cda62f5464772218394c2edc3f51f",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.9.31.dmg",
+        "size": 487767101,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.9.31/WeChatMac-4.1.9.31.dmg",
+        "sha256": "cc23c798065da4c7edf8f60513881d185ec508df9902f71c55060e516e89224f"
+      },
+      {
+        "name": "WeChatMac-4.1.9.31.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.9.31/WeChatMac-4.1.9.31.dmg.sha256",
+        "sha256": "08e52708e19496c4c6cb186d355c7c7211208d0a3d39e615d4327396017d3700"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.9.27",
+    "slug": "4.1.9.27",
+    "version": "4.1.9.27",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.9.27",
+    "published_at": "2026-04-24T08:59:33Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.9.dmg",
+    "sha256": "18c42b3dc5658b9fc2a9c7beaa14868ba905779590743be964a73bb165c9fe86",
+    "md5": "7ded54c65a197be4ded1095c1e6120ac",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.9.27.dmg",
+        "size": 487042399,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.9.27/WeChatMac-4.1.9.27.dmg",
+        "sha256": "18c42b3dc5658b9fc2a9c7beaa14868ba905779590743be964a73bb165c9fe86"
+      },
+      {
+        "name": "WeChatMac-4.1.9.27.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.9.27/WeChatMac-4.1.9.27.dmg.sha256",
+        "sha256": "25f21191ce5a2d2a9a8a264cac9c34084becc3c3366ffe033bacb5ea4dd42001"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.9.26",
+    "slug": "4.1.9.26",
+    "version": "4.1.9.26",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.9.26",
+    "published_at": "2026-04-22T08:29:37Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.9.dmg",
+    "sha256": "390513f0c3c70fed2c72d46d56f4dbe4f2a773db718064e79c2e790d4208400b",
+    "md5": "f78b732147c45ecbc8364784bd8ef88f",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.9.26.dmg",
+        "size": 486907662,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.9.26/WeChatMac-4.1.9.26.dmg",
+        "sha256": "390513f0c3c70fed2c72d46d56f4dbe4f2a773db718064e79c2e790d4208400b"
+      },
+      {
+        "name": "WeChatMac-4.1.9.26.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.9.26/WeChatMac-4.1.9.26.dmg.sha256",
+        "sha256": "51b43f2174130cc943fb9eea9c95eb299ec3ee1b3f77960134fbfdefdd5a4fcd"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.8.106",
+    "slug": "4.1.8.106",
+    "version": "4.1.8.106",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.8.106",
+    "published_at": "2026-04-10T08:21:05Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.8.dmg",
+    "sha256": "972823a966cdaa1f5f0a785bc9f1219d174a75f43d30ec0fbf9ba7ab0249b2f1",
+    "md5": "3c9e155395055613738b0faa6d447f02",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.8.106.dmg",
+        "size": 483369372,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.8.106/WeChatMac-4.1.8.106.dmg",
+        "sha256": "972823a966cdaa1f5f0a785bc9f1219d174a75f43d30ec0fbf9ba7ab0249b2f1"
+      },
+      {
+        "name": "WeChatMac-4.1.8.106.dmg.sha256",
+        "size": 320,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.8.106/WeChatMac-4.1.8.106.dmg.sha256",
+        "sha256": "ae8f28d99b85af85d0e28c87105c6c28cd56bf2d2ca69d7af336c6477c4dbd13"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.8.100",
+    "slug": "4.1.8.100",
+    "version": "4.1.8.100",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.8.100",
+    "published_at": "2026-04-04T07:48:23Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.8.dmg",
+    "sha256": "f40488335cd64422b7a4e144595da0b33cbc64ea8809278871a98b2de5dfed67",
+    "md5": "776fb08ec375a50e295c99b0c33a9d7e",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.8.100.dmg",
+        "size": 483358679,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.8.100/WeChatMac-4.1.8.100.dmg",
+        "sha256": "f40488335cd64422b7a4e144595da0b33cbc64ea8809278871a98b2de5dfed67"
+      },
+      {
+        "name": "WeChatMac-4.1.8.100.dmg.sha256",
+        "size": 320,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.8.100/WeChatMac-4.1.8.100.dmg.sha256",
+        "sha256": "ed0c6d5177b11d4d74f687c8be2c48aa57742e5228370039eebf198a6d5a3b34"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.8.67",
+    "slug": "4.1.8.67",
+    "version": "4.1.8.67",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.8.67",
+    "published_at": "2026-03-27T08:03:14Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.8.dmg",
+    "sha256": "b74641ef30af5765486f079d83a9a68a3bbe3bf66a0a8caa7fa13b6cccbb7cc5",
+    "md5": "48eb990d27e58ffe1d157b92961915ad",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.8.67.dmg",
+        "size": 482039372,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.8.67/WeChatMac-4.1.8.67.dmg",
+        "sha256": "b74641ef30af5765486f079d83a9a68a3bbe3bf66a0a8caa7fa13b6cccbb7cc5"
+      },
+      {
+        "name": "WeChatMac-4.1.8.67.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.8.67/WeChatMac-4.1.8.67.dmg.sha256",
+        "sha256": "ad1cc659b312c356098711b8febed59eec6ecf727e9a2637cc5352c40eb3c83e"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.8.29",
+    "slug": "4.1.8.29",
+    "version": "4.1.8.29",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.8.29",
+    "published_at": "2026-03-19T08:03:00Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.8.dmg",
+    "sha256": "4305970f2263a8dd8207574e6536f952fe2a538cbc925525b144b5372e8cfda7",
+    "md5": "1d8c99c7ab4545488b69600224aab693",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.8.29.dmg",
+        "size": 481791859,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.8.29/WeChatMac-4.1.8.29.dmg",
+        "sha256": "4305970f2263a8dd8207574e6536f952fe2a538cbc925525b144b5372e8cfda7"
+      },
+      {
+        "name": "WeChatMac-4.1.8.29.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.8.29/WeChatMac-4.1.8.29.dmg.sha256",
+        "sha256": "1b1db83c1f0dfe53cc15e2d64f339b189171a7d6803aa0dc8026a8873282a8bb"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.8.28",
+    "slug": "4.1.8.28",
+    "version": "4.1.8.28",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.8.28",
+    "published_at": "2026-03-14T07:36:05Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.8.dmg",
+    "sha256": "e555989d44c2908e7d2a6c62b538aee550d2d79040618612150e4c2bd95fc3a8",
+    "md5": "810724c964dfc49a17e66719b1979fd7",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.8.28.dmg",
+        "size": 481833247,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.8.28/WeChatMac-4.1.8.28.dmg",
+        "sha256": "e555989d44c2908e7d2a6c62b538aee550d2d79040618612150e4c2bd95fc3a8"
+      },
+      {
+        "name": "WeChatMac-4.1.8.28.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.8.28/WeChatMac-4.1.8.28.dmg.sha256",
+        "sha256": "21a5dde9f369197b400d277a130e0f0e62ffa2a0284279b2860d4b6e374f727f"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.7.57",
+    "slug": "4.1.7.57",
+    "version": "4.1.7.57",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.7.57",
+    "published_at": "2026-03-09T07:50:04Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.7.dmg",
+    "sha256": "4ee1f0e33f912093ef2ebbb4b9ee0d9a7c480c0482a0fe798da3f1219031a513",
+    "md5": "ae9f4077fcaa2722b320687bd0f66271",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.7.57.dmg",
+        "size": 480161335,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.7.57/WeChatMac-4.1.7.57.dmg",
+        "sha256": "4ee1f0e33f912093ef2ebbb4b9ee0d9a7c480c0482a0fe798da3f1219031a513"
+      },
+      {
+        "name": "WeChatMac-4.1.7.57.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.7.57/WeChatMac-4.1.7.57.dmg.sha256",
+        "sha256": "30bbf24ed0fcf7362210a734b80cc5b8fa61de51c50c21a8f1f6cd64c2b30b92"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.7.33",
+    "slug": "4.1.7.33",
+    "version": "4.1.7.33",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.7.33",
+    "published_at": "2026-02-27T07:44:33Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.7.dmg",
+    "sha256": "b706fa8aea0176f8a26925ef06f9b8a6f0751cf71b521eec6e47d63a631432f3",
+    "md5": "6faf64f824f9da2f19739b995c10b36d",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.7.33.dmg",
+        "size": 478637603,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.7.33/WeChatMac-4.1.7.33.dmg",
+        "sha256": "b706fa8aea0176f8a26925ef06f9b8a6f0751cf71b521eec6e47d63a631432f3"
+      },
+      {
+        "name": "WeChatMac-4.1.7.33.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.7.33/WeChatMac-4.1.7.33.dmg.sha256",
+        "sha256": "5483273f3abf8d80adc1c94ea4e5157f26ca62c87636d89224c6dffcced4d101"
+      }
+    ]
+  },
+  {
+    "tag": "4.1.7.31",
+    "slug": "4.1.7.31",
+    "version": "4.1.7.31",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.1.7.31",
+    "published_at": "2026-02-12T21:02:55Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.7.dmg",
+    "sha256": "01b78c4d88c197316cf931304948face97ac2b4963532c6493a2c0e6e7a232ff",
+    "md5": "bbc0d022557b2e7dd26825afa7bd0947",
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.7.31.dmg",
+        "size": 478653318,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.7.31/WeChatMac-4.1.7.31.dmg",
+        "sha256": "01b78c4d88c197316cf931304948face97ac2b4963532c6493a2c0e6e7a232ff"
+      },
+      {
+        "name": "WeChatMac-4.1.7.31.dmg.sha256",
+        "size": 319,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.1.7.31/WeChatMac-4.1.7.31.dmg.sha256",
+        "sha256": "f2cacb37d39f9f54e8cfd16b901dccd6ec5ba46341bee91ce8372cd6aa0490ac"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.7_20260131",
+    "slug": "v4.1.7_20260131",
+    "version": "4.1.7",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.7_20260131",
+    "published_at": "2026-01-31T07:28:07Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.7.dmg",
+    "sha256": "01b78c4d88c197316cf931304948face97ac2b4963532c6493a2c0e6e7a232ff",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.7.dmg",
+        "size": 478653318,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.7_20260131/WeChatMac-4.1.7.dmg",
+        "sha256": "01b78c4d88c197316cf931304948face97ac2b4963532c6493a2c0e6e7a232ff"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.7",
+    "slug": "v4.1.7",
+    "version": "4.1.7",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.7",
+    "published_at": "2026-01-29T07:38:57Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.7.dmg",
+    "sha256": "fd06c8909f3710509405b98552763c6816e33cff41e72c3caa645b857c52c181",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.7.dmg",
+        "size": 478735647,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.7/WeChatMac-4.1.7.dmg",
+        "sha256": "fd06c8909f3710509405b98552763c6816e33cff41e72c3caa645b857c52c181"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.6_20260107",
+    "slug": "v4.1.6_20260107",
+    "version": "4.1.6",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.6_20260107",
+    "published_at": "2026-01-07T07:24:42Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.6.dmg",
+    "sha256": "a0468c8b53bacdd088c4f1d0b7ad5060b40ca8ef860053b977ecc752e25493d5",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.6.dmg",
+        "size": 469868561,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.6_20260107/WeChatMac-4.1.6.dmg",
+        "sha256": "a0468c8b53bacdd088c4f1d0b7ad5060b40ca8ef860053b977ecc752e25493d5"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.6",
+    "slug": "v4.1.6",
+    "version": "4.1.6",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.6",
+    "published_at": "2025-12-26T01:10:50Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.6.dmg",
+    "sha256": "459894bda30a7511e4452875c2d7a130c710e6b1a7bd07568a6ba4bb3a409bfb",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.6.dmg",
+        "size": 469701481,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.6/WeChatMac-4.1.6.dmg",
+        "sha256": "459894bda30a7511e4452875c2d7a130c710e6b1a7bd07568a6ba4bb3a409bfb"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.5_20251205",
+    "slug": "v4.1.5_20251205",
+    "version": "4.1.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.5_20251205",
+    "published_at": "2025-12-05T07:21:10Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.5.dmg",
+    "sha256": "862aba2f9d70d13a10ae60742eadc7adc31dc2b3e9548cbe78f30ff3df4945f8",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.5.dmg",
+        "size": 443367008,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.5_20251205/WeChatMac-4.1.5.dmg",
+        "sha256": "862aba2f9d70d13a10ae60742eadc7adc31dc2b3e9548cbe78f30ff3df4945f8"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.5_20251203",
+    "slug": "v4.1.5_20251203",
+    "version": "4.1.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.5_20251203",
+    "published_at": "2025-12-03T07:21:09Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.5.dmg",
+    "sha256": "75e0d0788b085d9672bfff3cedb11e97613c3a28ac9bdcab6e4bfd71372644d7",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.5.dmg",
+        "size": 443321507,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.5_20251203/WeChatMac-4.1.5.dmg",
+        "sha256": "75e0d0788b085d9672bfff3cedb11e97613c3a28ac9bdcab6e4bfd71372644d7"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.5_20251121",
+    "slug": "v4.1.5_20251121",
+    "version": "4.1.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.5_20251121",
+    "published_at": "2025-11-21T07:18:54Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.5.dmg",
+    "sha256": "788b713dcbe5cf1c2a5c6ec8c4dd34d5aa11fbd4aac95380ef2ef54a1f378d82",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.5.dmg",
+        "size": 435127409,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.5_20251121/WeChatMac-4.1.5.dmg",
+        "sha256": "788b713dcbe5cf1c2a5c6ec8c4dd34d5aa11fbd4aac95380ef2ef54a1f378d82"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.5",
+    "slug": "v4.1.5",
+    "version": "4.1.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.5",
+    "published_at": "2025-11-20T07:18:21Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.5.dmg",
+    "sha256": "28e1bead84380ff0e3eb221e82232d10f84592d66797e996fe39f4277bc41a57",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.5.dmg",
+        "size": 435296545,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.5/WeChatMac-4.1.5.dmg",
+        "sha256": "28e1bead84380ff0e3eb221e82232d10f84592d66797e996fe39f4277bc41a57"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.4",
+    "slug": "v4.1.4",
+    "version": "4.1.4",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.4",
+    "published_at": "2025-11-08T07:16:38Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.4.dmg",
+    "sha256": "90622436d1d6b0955e590d5c28aa0e417db037c88a8a1a12d9b9e08470cfef76",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.4.dmg",
+        "size": 432573646,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.4/WeChatMac-4.1.4.dmg",
+        "sha256": "90622436d1d6b0955e590d5c28aa0e417db037c88a8a1a12d9b9e08470cfef76"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.2_20251031",
+    "slug": "v4.1.2_20251031",
+    "version": "4.1.2",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.2_20251031",
+    "published_at": "2025-10-31T07:16:56Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.2.dmg",
+    "sha256": "85f42e65cc7221359f9d3b95a239f5ea946e99c9840e51104f637fad345d3516",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.2.dmg",
+        "size": 428620717,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.2_20251031/WeChatMac-4.1.2.dmg",
+        "sha256": "85f42e65cc7221359f9d3b95a239f5ea946e99c9840e51104f637fad345d3516"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.2",
+    "slug": "v4.1.2",
+    "version": "4.1.2",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.2",
+    "published_at": "2025-10-22T07:18:28Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.2.dmg",
+    "sha256": "68c22737db0439f10a5eb4584dc1eeebd87337d88ede12798cbbcaf43d102b05",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.2.dmg",
+        "size": 428617689,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.2/WeChatMac-4.1.2.dmg",
+        "sha256": "68c22737db0439f10a5eb4584dc1eeebd87337d88ede12798cbbcaf43d102b05"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.1",
+    "slug": "v4.1.1",
+    "version": "4.1.1",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.1",
+    "published_at": "2025-10-01T07:17:50Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "c9b8fa5a5a3d658ba57e8db93f3185b3e1a8b57f0424c312ec59b342e6fdd7e9",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.1.dmg",
+        "size": 423207305,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.1/WeChatMac-4.1.1.dmg",
+        "sha256": "c9b8fa5a5a3d658ba57e8db93f3185b3e1a8b57f0424c312ec59b342e6fdd7e9"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.0_20250906",
+    "slug": "v4.1.0_20250906",
+    "version": "4.1.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.0_20250906",
+    "published_at": "2025-09-06T07:14:39Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "53042b538b9508a9c06171529e521f5d06c1c7247728d9fa7f5329e1b0920192",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.0.dmg",
+        "size": 423634374,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.0_20250906/WeChatMac-4.1.0.dmg",
+        "sha256": "53042b538b9508a9c06171529e521f5d06c1c7247728d9fa7f5329e1b0920192"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.0_20250902",
+    "slug": "v4.1.0_20250902",
+    "version": "4.1.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.0_20250902",
+    "published_at": "2025-09-02T07:17:52Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.0.32.dmg",
+    "sha256": "da29c158543d9443e01c6c68f66f7fb8e71443d89716eb525f749b681a78c8b2",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.0.dmg",
+        "size": 423103580,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.0_20250902/WeChatMac-4.1.0.dmg",
+        "sha256": "da29c158543d9443e01c6c68f66f7fb8e71443d89716eb525f749b681a78c8b2"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.0_20250828",
+    "slug": "v4.1.0_20250828",
+    "version": "4.1.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.0_20250828",
+    "published_at": "2025-08-28T07:18:13Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "21760add763c03798a8eac443e1d4da16b391b079a150a49696e27f377dcb1af",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.0.dmg",
+        "size": 423173924,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.0_20250828/WeChatMac-4.1.0.dmg",
+        "sha256": "21760add763c03798a8eac443e1d4da16b391b079a150a49696e27f377dcb1af"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.0_20250823",
+    "slug": "v4.1.0_20250823",
+    "version": "4.1.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.0_20250823",
+    "published_at": "2025-08-23T07:16:11Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "30910aa0cf8ee073c22cca1a678f72b13db44d93328775fc858c4050174ce294",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.0.dmg",
+        "size": 423204396,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.0_20250823/WeChatMac-4.1.0.dmg",
+        "sha256": "30910aa0cf8ee073c22cca1a678f72b13db44d93328775fc858c4050174ce294"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.0_20250820",
+    "slug": "v4.1.0_20250820",
+    "version": "4.1.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.0_20250820",
+    "published_at": "2025-08-20T07:18:48Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "10029fb24077cd8e02d393150a8cb1cd6eb0b91c3c6f69d72329f2123c7c46fc",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.0.dmg",
+        "size": 423214636,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.0_20250820/WeChatMac-4.1.0.dmg",
+        "sha256": "10029fb24077cd8e02d393150a8cb1cd6eb0b91c3c6f69d72329f2123c7c46fc"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.0_20250819",
+    "slug": "v4.1.0_20250819",
+    "version": "4.1.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.0_20250819",
+    "published_at": "2025-08-19T07:17:46Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "4974e69589b0c1d6a79af2d1403bf67aec0fb5010577a083dad92abe531e915f",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.0.dmg",
+        "size": 423238588,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.0_20250819/WeChatMac-4.1.0.dmg",
+        "sha256": "4974e69589b0c1d6a79af2d1403bf67aec0fb5010577a083dad92abe531e915f"
+      }
+    ]
+  },
+  {
+    "tag": "v4.1.0",
+    "slug": "v4.1.0",
+    "version": "4.1.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.1.0",
+    "published_at": "2025-08-15T07:19:20Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "2a230bad6f5493a24eae8b1d9dc71ff54f697f9359e902aeae0494b88618a51b",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.1.0.dmg",
+        "size": 423183700,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.1.0/WeChatMac-4.1.0.dmg",
+        "sha256": "2a230bad6f5493a24eae8b1d9dc71ff54f697f9359e902aeae0494b88618a51b"
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.6_20250723",
+    "slug": "v4.0.6_20250723",
+    "version": "4.0.6",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.6_20250723",
+    "published_at": "2025-07-23T07:23:11Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "bdd79450975b2314fcb57e57a3d408cdb593c118ed497c2b368226330b79c646",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.6.dmg",
+        "size": 390008752,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.6_20250723/WeChatMac-4.0.6.dmg",
+        "sha256": "bdd79450975b2314fcb57e57a3d408cdb593c118ed497c2b368226330b79c646"
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.6_20250709",
+    "slug": "v4.0.6_20250709",
+    "version": "4.0.6",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.6_20250709",
+    "published_at": "2025-07-09T07:19:52Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "1e5a06fbe0c6cecc4cec2d006cde0f5e493315d8548410dc1f956af9b4d4b841",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.6.dmg",
+        "size": 389873828,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.6_20250709/WeChatMac-4.0.6.dmg",
+        "sha256": "1e5a06fbe0c6cecc4cec2d006cde0f5e493315d8548410dc1f956af9b4d4b841"
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.6_20250708",
+    "slug": "v4.0.6_20250708",
+    "version": "4.0.6",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.6_20250708",
+    "published_at": "2025-07-08T07:19:03Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "ef9b2f2ec80a8b986fec46398177cf6e624a224b4a76a81293768e927d01d6de",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.6.dmg",
+        "size": 391652117,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.6_20250708/WeChatMac-4.0.6.dmg",
+        "sha256": "ef9b2f2ec80a8b986fec46398177cf6e624a224b4a76a81293768e927d01d6de"
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.6",
+    "slug": "v4.0.6",
+    "version": "4.0.6",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.6",
+    "published_at": "2025-07-03T07:18:39Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "16fe54619e7e59f1efb3e577ca22d2422b63fbedd653ed0626c9c8765c01f931",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.6.dmg",
+        "size": 391551288,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.6/WeChatMac-4.0.6.dmg",
+        "sha256": "16fe54619e7e59f1efb3e577ca22d2422b63fbedd653ed0626c9c8765c01f931"
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.5_20250614",
+    "slug": "v4.0.5_20250614",
+    "version": "4.0.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.5_20250614",
+    "published_at": "2025-06-14T07:16:16Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "1a37b517daddca4c53a98209e0f7eadf3a541f7b7718a20afd02f992dd6a0957",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.5.dmg",
+        "size": 391358857,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.5_20250614/WeChatMac-4.0.5.dmg",
+        "sha256": "1a37b517daddca4c53a98209e0f7eadf3a541f7b7718a20afd02f992dd6a0957"
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.5_20250610",
+    "slug": "v4.0.5_20250610",
+    "version": "4.0.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.5_20250610",
+    "published_at": "2025-06-10T07:17:49Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "0f36a1ebf0dc06ec7e8dd3925701db5c0983d9788df5333ef5350992cd7b1664",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.5.dmg",
+        "size": 391363677,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.5_20250610/WeChatMac-4.0.5.dmg",
+        "sha256": "0f36a1ebf0dc06ec7e8dd3925701db5c0983d9788df5333ef5350992cd7b1664"
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.5_20250607",
+    "slug": "v4.0.5_20250607",
+    "version": "4.0.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.5_20250607",
+    "published_at": "2025-06-07T07:16:10Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "89e8b10606216798d4dd358257b057285062749d5b6da6d70474e4ae935c1832",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.5.dmg",
+        "size": 391362017,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.5_20250607/WeChatMac-4.0.5.dmg",
+        "sha256": "89e8b10606216798d4dd358257b057285062749d5b6da6d70474e4ae935c1832"
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.5_20250528",
+    "slug": "v4.0.5_20250528",
+    "version": "4.0.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.5_20250528",
+    "published_at": "2025-05-28T07:17:56Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "8b6466e293ceb2b894ff24a66e5bbf93ad3e3749cde7d2d71d87fe2b254b201b",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.5.dmg",
+        "size": 391114849,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.5_20250528/WeChatMac-4.0.5.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.5_20250527",
+    "slug": "v4.0.5_20250527",
+    "version": "4.0.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.5_20250527",
+    "published_at": "2025-05-27T07:18:11Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "41bf1084b115ccb9df98c3bfc6fd7234659fbaf1fe947238ed2fc2880cf97af9",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.5.dmg",
+        "size": 391104585,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.5_20250527/WeChatMac-4.0.5.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.5_20250524",
+    "slug": "v4.0.5_20250524",
+    "version": "4.0.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.5_20250524",
+    "published_at": "2025-05-24T07:15:48Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "2e8de407821a39609ef5537c2902a306deeeeb0c63d1b3b16e5e9ca6582fdbf5",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.5.dmg",
+        "size": 391125597,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.5_20250524/WeChatMac-4.0.5.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.5_20250523",
+    "slug": "v4.0.5_20250523",
+    "version": "4.0.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.5_20250523",
+    "published_at": "2025-05-23T07:17:38Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "00e038406be95d8bfd026f1edbfa40834f647133620548f437d8fcf9d8882777",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.5.dmg",
+        "size": 390986029,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.5_20250523/WeChatMac-4.0.5.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.5",
+    "slug": "v4.0.5",
+    "version": "4.0.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.5",
+    "published_at": "2025-05-17T07:15:53Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "883fdd2a9837d73e7279523a0473479ebac729451bc23627b79db75192160e29",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.5.dmg",
+        "size": 390966173,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.5/WeChatMac-4.0.5.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.3",
+    "slug": "v4.0.3",
+    "version": "4.0.3",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.3",
+    "published_at": "2025-04-23T07:38:27Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "7481325d2a9a92482fee4a8e227838f2a3443d7ad8fa0140b3821a0e57c0e2f5",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.3.dmg",
+        "size": 395476881,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.3/WeChatMac-4.0.3.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.3.90",
+    "slug": "v4.0.3.90",
+    "version": "4.0.3.90",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.3.90",
+    "published_at": "2025-04-19T07:15:04Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "80fe7b6931446e5e3f295da08fcf58631be7237128fe6f9aede4bf4073d5e0b8",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.3.90.dmg",
+        "size": 395476097,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.3.90/WeChatMac-4.0.3.90.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.3.88",
+    "slug": "v4.0.3.88",
+    "version": "4.0.3.88",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.3.88",
+    "published_at": "2025-04-17T07:18:13Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "a765195ba7823bd7e7860252d2e8345e4bb08d835fd1d0d9e34c08252f1d52c3",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.3.88.dmg",
+        "size": 395414909,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.3.88/WeChatMac-4.0.3.88.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.3.87",
+    "slug": "v4.0.3.87",
+    "version": "4.0.3.87",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.3.87",
+    "published_at": "2025-04-16T07:17:20Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "a17c8888cbb5ba39f0309d46b18af0fe746f05e99fe550b58bcb458be96ebc39",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.3.87.dmg",
+        "size": 395104137,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.3.87/WeChatMac-4.0.3.87.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.3.80",
+    "slug": "v4.0.3.80",
+    "version": "4.0.3.80",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v4.0.3.80",
+    "published_at": "2025-04-12T22:40:53Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/Universal/Mac/WeChatMac.dmg",
+    "sha256": "eaddd40e7f830801747f6a70d1fb52a4b028b1964de6935e21b5998b00165a88",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.0.3.80.dmg",
+        "size": 395543885,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v4.0.3.80/WeChatMac-4.0.3.80.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.9.17",
+    "slug": "v3.8.9.17",
+    "version": "3.8.9.17",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.9.17",
+    "published_at": "2024-10-01T21:58:41Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "1a144882afe99c53b74ecdd0fed8dd36b12a1784a36326ab8dd48616538452f5",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.9.17.dmg",
+        "size": 368889490,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.9.17/WeChatMac-3.8.9.17.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.8_20240826",
+    "slug": "v3.8.8_20240826",
+    "version": "3.8.8",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.8_20240826",
+    "published_at": "2024-08-26T07:14:00Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "62419473d0add92ce32506a82be5ff4c14e5fbd0af81f7c7ff7a09f15840fbe9",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.8.dmg",
+        "size": 368802657,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.8_20240826/WeChatMac-3.8.8.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.8",
+    "slug": "v3.8.8",
+    "version": "3.8.8",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.8",
+    "published_at": "2024-06-08T07:12:57Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "db14a330018828c13bcc1fd23dca179f4d2a460fa2c9f6bdc111b9b015e498dc",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.8.dmg",
+        "size": 368769513,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.8/WeChatMac-3.8.8.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.7_20240529",
+    "slug": "v3.8.7_20240529",
+    "version": "3.8.7",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.7_20240529",
+    "published_at": "2024-05-29T07:13:00Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "7febd3b81d807be0beeb8ecb94cefb7240ecd38621a90e7277d1f275d4ec8780",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.7.dmg",
+        "size": 368720504,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.7_20240529/WeChatMac-3.8.7.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.7",
+    "slug": "v3.8.7",
+    "version": "3.8.7",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.7",
+    "published_at": "2024-03-08T07:13:58Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "8920b3fa8a59babaa8de8200eb05a6577a31a2b96fab4a419ad63dd1b6f4f571",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.7.dmg",
+        "size": 368601675,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.7/WeChatMac-3.8.7.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.6_20240307",
+    "slug": "v3.8.6_20240307",
+    "version": "3.8.6",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.6_20240307",
+    "published_at": "2024-03-07T07:10:25Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "9f315f006de89f3a0e4cdb24a440cc036b318f27f6b9085af67fa40b229ff888",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.6.dmg",
+        "size": 368603048,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.6_20240307/WeChatMac-3.8.6.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.6_20231228",
+    "slug": "v3.8.6_20231228",
+    "version": "3.8.6",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.6_20231228",
+    "published_at": "2023-12-28T07:11:49Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "d698ecf636490cc8a57a545aae58fa6bcba51178f3db434f1b2867aabc235c04",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.6.dmg",
+        "size": 368309600,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.6_20231228/WeChatMac-3.8.6.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.6",
+    "slug": "v3.8.6",
+    "version": "3.8.6",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.6",
+    "published_at": "2023-12-27T07:13:08Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "899de1078d00415c1830f5b8bf1e5ff500a0c3b92c0b3efc708e85a278f5fe2c",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.6.dmg",
+        "size": 368309693,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.6/WeChatMac-3.8.6.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.5_20231129",
+    "slug": "v3.8.5_20231129",
+    "version": "3.8.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.5_20231129",
+    "published_at": "2023-11-29T07:11:56Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "ab71e99b8c1329dacd086b0212487618be65ec3d9c2528963a7e6bba74a81f7d",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.5.dmg",
+        "size": 358205210,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.5_20231129/WeChatMac-3.8.5.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.5",
+    "slug": "v3.8.5",
+    "version": "3.8.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.5",
+    "published_at": "2023-11-21T07:12:17Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "ce9d00d7cfb5d94ccabb593882ce8e23f0e431440e4273d73a579ed709946755",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.5.dmg",
+        "size": 358204932,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.5/WeChatMac-3.8.5.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.4_20231014",
+    "slug": "v3.8.4_20231014",
+    "version": "3.8.4",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.4_20231014",
+    "published_at": "2023-10-14T07:10:29Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "d3a322806f30eb5ee966efc0dd052c80be232fd232e29c5b0b0005d8dc82b692",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.4.dmg",
+        "size": 364902178,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.4_20231014/WeChatMac-3.8.4.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.4_20230929",
+    "slug": "v3.8.4_20230929",
+    "version": "3.8.4",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.4_20230929",
+    "published_at": "2023-09-29T07:11:24Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "a9dcb2fdf5db9323aa7d410721e44d32b31b46a32bbb721f4508f0a2c0f02a9c",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.4.dmg",
+        "size": 364901991,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.4_20230929/WeChatMac-3.8.4.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.4_20230928",
+    "slug": "v3.8.4_20230928",
+    "version": "3.8.4",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.4_20230928",
+    "published_at": "2023-09-28T07:11:47Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "70ea960274d29aa88c922054a4f7ac2cba9ce13bd8b5544054bb1e4c3cab8853",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.4.dmg",
+        "size": 364902501,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.4_20230928/WeChatMac-3.8.4.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.4",
+    "slug": "v3.8.4",
+    "version": "3.8.4",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.4",
+    "published_at": "2023-09-27T07:11:22Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "b0b8f04fc75fa9f399ccb23f2f20524150eafa80b2d0cb56856dc9e37ea370e5",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.4.dmg",
+        "size": 364903106,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.4/WeChatMac-3.8.4.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.2_20230822",
+    "slug": "v3.8.2_20230822",
+    "version": "3.8.2",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.2_20230822",
+    "published_at": "2023-08-22T07:11:19Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "d4f2846b88369e14adb3ed5f254df5a90a32ee2ca558ad89996611f481258a12",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.2.dmg",
+        "size": 352520181,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.2_20230822/WeChatMac-3.8.2.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.2_20230819",
+    "slug": "v3.8.2_20230819",
+    "version": "3.8.2",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.2_20230819",
+    "published_at": "2023-08-19T07:10:25Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "88ded0e7c864a4949d91ab3c5bba8eea99709e0aa4aa0ab7f2e0aae6f10a4fa1",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.2.dmg",
+        "size": 352521432,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.2_20230819/WeChatMac-3.8.2.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.2_20230809",
+    "slug": "v3.8.2_20230809",
+    "version": "3.8.2",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.2_20230809",
+    "published_at": "2023-08-09T07:11:55Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "c93f9b9c661311d452510f063f6259ace4378973d00de9862e8c593609c39368",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.2.dmg",
+        "size": 352472739,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.2_20230809/WeChatMac-3.8.2.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.2_20230808",
+    "slug": "v3.8.2_20230808",
+    "version": "3.8.2",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.2_20230808",
+    "published_at": "2023-08-08T07:11:27Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "4329b8f706b22a5dec912b95b92c1dd823dac1b34e9eb3995100e4bc4f7c3997",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.2.dmg",
+        "size": 352473554,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.2_20230808/WeChatMac-3.8.2.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.2",
+    "slug": "v3.8.2",
+    "version": "3.8.2",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.2",
+    "published_at": "2023-08-05T07:09:52Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "a75f56339324b481943ee598eeeb1c5c81b7e6677aa842d8f6e3dcf4fd09ed76",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.2.dmg",
+        "size": 352499144,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.2/WeChatMac-3.8.2.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.1",
+    "slug": "v3.8.1",
+    "version": "3.8.1",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.1",
+    "published_at": "2023-07-04T07:13:10Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "a4bc04b101a1dd5b326544dc0c8fb5fdd2e5117bd06b0dba79a37bc40930d127",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.1.dmg",
+        "size": 348781327,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.1/WeChatMac-3.8.1.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.0_20230524",
+    "slug": "v3.8.0_20230524",
+    "version": "3.8.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.0_20230524",
+    "published_at": "2023-05-24T07:11:05Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "19f9efe6628e9c9743bd46ac3f2dd70eed2c88d4058dd286538382cdc594e5da",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.0.dmg",
+        "size": 347197647,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.0_20230524/WeChatMac-3.8.0.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.8.0",
+    "slug": "v3.8.0",
+    "version": "3.8.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.8.0",
+    "published_at": "2023-05-18T07:11:05Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "bb3ffe006bc2cb35e4d940ef35b5cf719104e04e49c919bb7c5488622354b7fd",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.8.0.dmg",
+        "size": 347171908,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.8.0/WeChatMac-3.8.0.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.7.1_20230425",
+    "slug": "v3.7.1_20230425",
+    "version": "3.7.1",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.7.1_20230425",
+    "published_at": "2023-04-25T07:11:54Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "49ab7ca78598b2ae97ccb1b3349bbe1d2cea059f111788e6af4d81fa096022ce",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.7.1.dmg",
+        "size": 359390060,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.7.1_20230425/WeChatMac-3.7.1.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.7.1_20230421",
+    "slug": "v3.7.1_20230421",
+    "version": "3.7.1",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.7.1_20230421",
+    "published_at": "2023-04-21T07:11:41Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "dfc6fe9caba3b7c7354a76ea5ee4e7ef3711edbe061061943a4a200ac30dd366",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.7.1.dmg",
+        "size": 360803959,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.7.1_20230421/WeChatMac-3.7.1.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.7.1",
+    "slug": "v3.7.1",
+    "version": "3.7.1",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.7.1",
+    "published_at": "2023-04-18T07:11:44Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "0f10f948f407ecd8b85138c0cff0c8dc32940b401e13d2f6d1c0c98c5fe188b8",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.7.1.dmg",
+        "size": 360833444,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.7.1/WeChatMac-3.7.1.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.7.0",
+    "slug": "v3.7.0",
+    "version": "3.7.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.7.0",
+    "published_at": "2023-02-07T07:12:17Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "1c4170ea40036de3c28cc479f21a96d6143e33dff76343db18d6111c4865e099",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.7.0.dmg",
+        "size": 199757910,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.7.0/WeChatMac-3.7.0.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.6.2",
+    "slug": "v3.6.2",
+    "version": "3.6.2",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.6.2",
+    "published_at": "2022-12-17T07:10:42Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "0fc509c084470121cf023fd27a94e0cf4d57c5a73c1f25dd301551c5af158c1d",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.6.2.dmg",
+        "size": 172042473,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.6.2/WeChatMac-3.6.2.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.6.1",
+    "slug": "v3.6.1",
+    "version": "3.6.1",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.6.1",
+    "published_at": "2022-11-16T07:13:28Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "67b572e03af0e8324b9a6e6df37ba19fc740f00869b03b089f83205cab30ecd1",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.6.1.dmg",
+        "size": 171667194,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.6.1/WeChatMac-3.6.1.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.6.0_20221105",
+    "slug": "v3.6.0_20221105",
+    "version": "3.6.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.6.0_20221105",
+    "published_at": "2022-11-05T07:13:49Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "15e61ab93e7d5807e97c04cc2455644cb75a59f9cfbf29407c69ebbeb5559ee8",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.6.0.dmg",
+        "size": 171631537,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.6.0_20221105/WeChatMac-3.6.0.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.6.0",
+    "slug": "v3.6.0",
+    "version": "3.6.0",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.6.0",
+    "published_at": "2022-10-29T07:13:52Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "9dd46678224b2f5da56b603017eb521e1457f0275fa165e130a5dbc7309a3c9d",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.6.0.dmg",
+        "size": 171627184,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.6.0/WeChatMac-3.6.0.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.5.5_20220916",
+    "slug": "v3.5.5_20220916",
+    "version": "3.5.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.5.5_20220916",
+    "published_at": "2022-09-16T07:26:23Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "e75013e668d066dc61455db0c18e769f15c9348f195d39946cdaffba4fad0eb5",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.5.5.dmg",
+        "size": 172070577,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.5.5_20220916/WeChatMac-3.5.5.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.5.5_20220824",
+    "slug": "v3.5.5_20220824",
+    "version": "3.5.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.5.5_20220824",
+    "published_at": "2022-08-24T10:57:27Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "a563a21f9d24fdf7c3fc12f736bfd7666ba9bdd7015d2a7165f03962ec33c92a",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.5.5.dmg",
+        "size": 172039561,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.5.5_20220824/WeChatMac-3.5.5.dmg",
+        "sha256": null
+      }
+    ]
+  },
+  {
+    "tag": "v3.5.5",
+    "slug": "v3.5.5",
+    "version": "3.5.5",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/v3.5.5",
+    "published_at": "2022-08-19T15:44:28Z",
+    "prerelease": false,
+    "official_url": "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg",
+    "sha256": "95d602501a91dee340ff4d9504b3cef256db4ab7a7036ffd79f4609944155150",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-3.5.5.dmg",
+        "size": 172014505,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/v3.5.5/WeChatMac-3.5.5.dmg",
+        "sha256": null
+      }
+    ]
+  }
+]
