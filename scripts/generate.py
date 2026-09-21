@@ -147,7 +147,7 @@ write(ROOT / 'README.md', f'''# 微信历史版本下载索引 | WeChat Android 
 
 ## 自动更新
 
-GitHub Actions 每天定时同步两处来源，也可以在 Actions 的 **Sync version indexes** 中手动运行。仅当数据有变化时提交更新。同步或校验失败时不会推送变更。
+GitHub Actions 每周一北京时间 12:23 同步两处来源（GitHub 调度可能延迟），也可以在 Actions 的 **Sync version indexes** 中手动运行。仅当数据有变化时提交更新。同步或校验失败时不会推送变更。
 
 本地需要 Python 3.10+ 和已登录的 GitHub CLI：
 
