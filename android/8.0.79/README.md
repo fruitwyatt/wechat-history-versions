@@ -1,0 +1,19 @@
+# 微信 8.0.79 安卓版下载 | WeChat 8.0.79 Android APK
+
+本页整理微信 **8.0.79** 的 **1 个安装包文件**。来源记录发布日期：**2026-09-30**。
+
+[返回全部历史版本](../README.md)
+
+## 安装包列表
+
+| 安装包文件与详情 | 下载地址 |
+| --- | --- |
+| [weixin8079android3200_0x28004f30_arm64.apk](./weixin8079android3200_0x28004f30_arm64/) | [下载 APK](https://dldir1v6.qq.com/weixin/android/weixin8079android3200_0x28004f30_arm64.apk) |
+
+下载地址指向腾讯 qq.com 域名。本站仅整理链接，不托管 APK，也不是微信官方网站。链接可用性、安装包签名和实际版本尚未逐一验证；发布日期来自来源记录。
+
+## 相邻已收录版本
+
+- [较旧版本：微信 8.0.78](../8.0.78/)
+
+数据来源：[原始版本记录](https://github.com/DJB-Developer/wechat-android-history-versions/blob/301af41be520690977bba71478a4c31b9f09961f/version.json)。本页仅包含来源中实际存在的记录，不推测缺失版本。
