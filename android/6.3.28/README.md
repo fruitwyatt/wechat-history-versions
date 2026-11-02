@@ -17,4 +17,4 @@
 - [较新版本：微信 6.3.30](../6.3.30/)
 - [较旧版本：微信 6.3.27](../6.3.27/)
 
-数据来源：[原始版本记录](https://github.com/DJB-Developer/wechat-android-history-versions/blob/15676638538ec5df06b5bc7ce3b8a1bf65c558c7/version.json)。本页仅包含来源中实际存在的记录，不推测缺失版本。
+数据来源：[原始版本记录](https://github.com/DJB-Developer/wechat-android-history-versions/blob/ce40188389e7dd4a9226fd03d93a22f51bcfb2cf/version.json)。本页仅包含来源中实际存在的记录，不推测缺失版本。
