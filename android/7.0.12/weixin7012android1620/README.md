@@ -23,4 +23,4 @@
 
 ## 来源与核验
 
-版本、日期和下载地址参考 [DJB-Developer 的版本记录](https://github.com/DJB-Developer/wechat-android-history-versions/blob/ce40188389e7dd4a9226fd03d93a22f51bcfb2cf/version.json)，本页按安装包重新整理。未提供未经验证的文件大小、SHA-256、更新日志或系统兼容性结论。下载失败时可返回版本列表查看其他文件。
+版本、日期和下载地址参考 [DJB-Developer 的版本记录](https://github.com/DJB-Developer/wechat-android-history-versions/blob/e581935add19b390b9871dbae45f272e4846d850/version.json)，本页按安装包重新整理。未提供未经验证的文件大小、SHA-256、更新日志或系统兼容性结论。下载失败时可返回版本列表查看其他文件。

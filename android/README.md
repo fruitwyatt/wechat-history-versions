@@ -1,6 +1,6 @@
 # 微信安卓历史版本下载索引 | WeChat Android APK
 
-收录 **135 个版本、175 个安装包链接**，范围为微信 5.3.1 至 8.0.80。点击版本查看对应安装包；同一版本的不同文件分别列出，便于区分构建。
+收录 **135 个版本、176 个安装包链接**，范围为微信 5.3.1 至 8.0.80。点击版本查看对应安装包；同一版本的不同文件分别列出，便于区分构建。
 
 下载地址指向腾讯 qq.com 域名。本站仅整理链接，不托管 APK，也不是微信官方网站。链接可用性、安装包签名和实际版本尚未逐一验证；发布日期来自来源记录。
 
@@ -10,7 +10,7 @@
 
 | 微信版本 | 来源记录发布日期 | 安装包数量 |
 | --- | --- | ---: |
-| [微信 8.0.80 安卓版](./8.0.80/) | 2026-10-28 | 1 |
+| [微信 8.0.80 安卓版](./8.0.80/) | 2026-10-28 | 2 |
 | [微信 8.0.79 安卓版](./8.0.79/) | 2026-09-30 | 2 |
 | [微信 8.0.78 安卓版](./8.0.78/) | 2026-09-09 | 2 |
 | [微信 8.0.77 安卓版](./8.0.77/) | 2026-08-21 | 2 |
@@ -148,7 +148,7 @@
 
 ## 数据来源与维护
 
-感谢 [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) 整理版本资料。当前数据固定于 [提交 ce40188](https://github.com/DJB-Developer/wechat-android-history-versions/blob/ce40188389e7dd4a9226fd03d93a22f51bcfb2cf/version.json)，仅提取版本、日期和下载链接；目录、说明和生成脚本为本仓库重新编写。
+感谢 [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) 整理版本资料。当前数据固定于 [提交 e581935](https://github.com/DJB-Developer/wechat-android-history-versions/blob/e581935add19b390b9871dbae45f272e4846d850/version.json)，仅提取版本、日期和下载链接；目录、说明和生成脚本为本仓库重新编写。
 
 数据文件为 [data/versions.json](../data/versions.json)。更新数据后运行：
 

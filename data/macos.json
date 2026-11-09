@@ -1,5 +1,55 @@
 [
   {
+    "tag": "4.2.0.17",
+    "slug": "4.2.0.17",
+    "version": "4.2.0.17",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.2.0.17",
+    "published_at": "2026-11-05T15:13:54Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.2.0.dmg",
+    "sha256": "e47d5e1c1109b271cc8f97ae6bb9fa6726eb768c4eb9ee604bac79d552a3b124",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.2.0.17.dmg",
+        "size": 544809785,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.2.0.17/WeChatMac-4.2.0.17.dmg",
+        "sha256": "e47d5e1c1109b271cc8f97ae6bb9fa6726eb768c4eb9ee604bac79d552a3b124"
+      },
+      {
+        "name": "WeChatMac-4.2.0.17.dmg.sha256",
+        "size": 287,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.2.0.17/WeChatMac-4.2.0.17.dmg.sha256",
+        "sha256": "a40a8614a51bf23fb70ce65b29b79c7f85db395e4346f48b9602aa817dfe0fc4"
+      }
+    ]
+  },
+  {
+    "tag": "4.2.0.16",
+    "slug": "4.2.0.16",
+    "version": "4.2.0.16",
+    "release_url": "https://github.com/zsbai/wechat-versions/releases/tag/4.2.0.16",
+    "published_at": "2026-11-03T14:51:17Z",
+    "prerelease": false,
+    "official_url": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.2.0.dmg",
+    "sha256": "077b99658e2d2083458a181f6de21ac9442fef8479635e367afdb0e4b1be5f22",
+    "md5": null,
+    "assets": [
+      {
+        "name": "WeChatMac-4.2.0.16.dmg",
+        "size": 544247217,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.2.0.16/WeChatMac-4.2.0.16.dmg",
+        "sha256": "077b99658e2d2083458a181f6de21ac9442fef8479635e367afdb0e4b1be5f22"
+      },
+      {
+        "name": "WeChatMac-4.2.0.16.dmg.sha256",
+        "size": 287,
+        "url": "https://github.com/zsbai/wechat-versions/releases/download/4.2.0.16/WeChatMac-4.2.0.16.dmg.sha256",
+        "sha256": "17f507c6b619ae77b6a2ceff428d40a0cf33f5a18bf5ef6587e76a1a259f6446"
+      }
+    ]
+  },
+  {
     "tag": "4.2.0.12",
     "slug": "4.2.0.12",
     "version": "4.2.0.12",

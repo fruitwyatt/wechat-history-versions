@@ -17,4 +17,4 @@
 - [较新版本：微信 8.0.37](../8.0.37/)
 - [较旧版本：微信 8.0.34](../8.0.34/)
 
-数据来源：[原始版本记录](https://github.com/DJB-Developer/wechat-android-history-versions/blob/ce40188389e7dd4a9226fd03d93a22f51bcfb2cf/version.json)。本页仅包含来源中实际存在的记录，不推测缺失版本。
+数据来源：[原始版本记录](https://github.com/DJB-Developer/wechat-android-history-versions/blob/e581935add19b390b9871dbae45f272e4846d850/version.json)。本页仅包含来源中实际存在的记录，不推测缺失版本。
